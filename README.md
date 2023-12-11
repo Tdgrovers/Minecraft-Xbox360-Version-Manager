@@ -1,1 +1,1 @@
-# MinecraftX360TUs
+# Minecraft Xbox 360 Version Manager
